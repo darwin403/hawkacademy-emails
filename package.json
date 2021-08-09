@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "mjml --watch welcome.mjml -o welcome.html",
+    "build": "mjml welcome.mjml -o welcome.html",
+    "clean": "rm -rf dist"
+  },
+  "devDependencies": {
+    "mjml": "^4.10.2"
+  }
+}
