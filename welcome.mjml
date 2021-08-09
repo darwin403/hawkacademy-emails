@@ -148,7 +148,7 @@
         </mj-social>
         <mj-spacer height="12px" />
         <mj-text font-size="11px" line-height="20px" align="center" mj-class="text-white">
-          <a href="https: //hawkacademy.co/quiz/">Quiz</a> | <a href="https://hawkacademy.co/forums/">Forums</a> | <a href="https://studiohawk.com.au/contact/">Audit by Studiohawk</a> | <a href="https://studiohawk.com.au/seo-services/seo-speaking-training/">SEO Speaking / Training</a> | <a href="https://hawkacademy.co/privacy-policy">Privacy Policy</a> | <a href="mailto:Hello@hawkacademy.co">Contact</a>
+          <a href="https://hawkacademy.co/quiz/">Quiz</a> | <a href="https://hawkacademy.co/forums/">Forums</a> | <a href="https://studiohawk.com.au/contact/">Audit by Studiohawk</a> | <a href="https://studiohawk.com.au/seo-services/seo-speaking-training/">SEO Speaking / Training</a> | <a href="https://hawkacademy.co/privacy-policy">Privacy Policy</a> | <a href="mailto:Hello@hawkacademy.co">Contact</a>
         </mj-text>
         <mj-spacer height="12px" />
         <mj-text font-size="11px" line-height="20px" mj-class="text-white" align="center">&#169; Copyright 2021 HawkAcademy</mj-text>
