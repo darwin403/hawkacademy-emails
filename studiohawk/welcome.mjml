@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
-    <mj-title>Welcome to Hawk Academy</mj-title>
-    <mj-preview>Welcome to Hawk Academy</mj-preview>
+    <mj-title>Welcome to StudioHawk</mj-title>
+    <mj-preview>Welcome to StudioHawk</mj-preview>
 
     <mj-attributes>
       <!-- Attribute reset -->
@@ -50,21 +50,21 @@
     <mj-hero mode="fixed-height" height="11px" mj-class="bg-blue"></mj-hero>
 
     <!-- Title -->
-    <mj-section mj-class="bg-white">
+    <mj-section mj-class="bg-white" padding-top="30px" padding-bottom="30px">
       <mj-group>
         <mj-column vertical-align="middle">
-          <mj-image src="https://hawkacademy.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/logo.png" href="https://hawkacademy.co" alt="Hawk Academy" title="Hawk Academy" width="130.5px" />
+          <mj-image src="https://studiohawk.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/logo.png" href="https://studiohawk.com.au" alt="StudioHawk" title="StudioHawk" width="200px" />
         </mj-column>
         <mj-column vertical-align="middle">
-          <mj-text mj-class="text-blue" align="right" text-decoration="underline" font-size="14px"><a href="https://hawkacademy.co/wp-login.php" title="Login">LOGIN</a></mj-text>
+          <mj-text mj-class="text-blue" align="right" text-decoration="underline" font-size="14px"><a href="https://studiohawk.com.au/wp-login.php" title="Login">LOGIN</a></mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
 
     <!-- Hero -->
-    <mj-hero mode="fixed-height" height="280px" background-height="469px" mj-class="bg-lightblue" vertical-align="middle" background-url="https://hawkacademy.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/hero.png" css-class="bg-sm-none p-sm-30-md-60">
+    <mj-hero mode="fixed-height" height="280px" background-height="469px" mj-class="bg-lightblue" vertical-align="middle" background-url="https://studiohawk.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/hero.png" css-class="bg-sm-none p-sm-30-md-60">
       <mj-text font-size="40px" line-height="40px" mj-class="text-gray font-extrabold">
-        <span style="color:#3db8ea;">Welcome</span> to <br /> Hawk Academy
+        <span style="color:#3db8ea;">Welcome</span> to <br /> StudioHawk
       </mj-text>
       <mj-spacer height="16px" />
       <mj-text mj-class="text-blue font-extrabold">BEGIN YOUR SEO JOURNEY TODAY</mj-text>
@@ -82,7 +82,7 @@
           </p>
           <p>
             Speaking of community here's your personal invite to our private
-            Facebook group build for Hawk Academy Paid users only.
+            Facebook group build for StudioHawk Paid users only.
           </p>
           <p>
             We'll touch on these very soon but for the meantime get stuck into
@@ -91,10 +91,10 @@
           </p>
           <p>Chat soon,</p>
           <p>
-            <i> The Hawk Academy Team </i>
+            <i> The StudioHawk Team </i>
           </p>
         </mj-text>
-        <mj-button href="https://hawkacademy.co/" title="Start your SEO journey" mj-class="bg-blue text-bold" border-radius="0" inner-padding="16px 15px" font-size="12px">
+        <mj-button href="https://studiohawk.com.au/" title="Start your SEO journey" mj-class="bg-blue text-bold" border-radius="0" inner-padding="16px 15px" font-size="12px">
           Start your SEO journey
         </mj-button>
       </mj-column>
@@ -105,33 +105,33 @@
       <mj-column>
         <mj-text mj-class="text-gray font-extrabold" align="center" font-size="28px">A Word from Harry</mj-text>
         <mj-spacer height="16px" />
-        <mj-image src="https://hawkacademy.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/video.png" align="center" alt="Harry's introduction Video" />
+        <mj-image src="https://studiohawk.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/video.png" align="center" alt="Harry's introduction Video" />
       </mj-column>
     </mj-section>
 
     <!-- Features -->
     <mj-section mj-class="bg-lightblue" padding="38px 0">
       <mj-column padding="16px 0">
-        <mj-image src="https://hawkacademy.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/computer-icon.png" alt="Computer Icon" height="80px" width="100px" align="center" />
+        <mj-image src="https://studiohawk.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/computer-icon.png" alt="Computer Icon" height="80px" width="100px" align="center" />
         <mj-spacer height="16px" />
         <mj-text mj-class="text-gray font-extrabold" font-size="21px" line-height="24px" align="center">Let's get you <br />
           on the path to<br />
           <span style="color:#3db8ea;"> SEO success</span>
         </mj-text>
         <mj-spacer height="16px" />
-        <mj-button href="https://hawkacademy.co/" title="Go to Hawk Academy" align="center" mj-class="bg-blue text-bold" border-radius="0" inner-padding="16px 15px" font-size="12px">
-          Go to Hawk Academy
+        <mj-button href="https://studiohawk.com.au/" title="Go to StudioHawk" align="center" mj-class="bg-blue text-bold" border-radius="0" inner-padding="16px 15px" font-size="12px">
+          Go to StudioHawk
         </mj-button>
       </mj-column>
       <mj-column padding="16px 0">
-        <mj-image src="https://hawkacademy.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/questions-icon.png" alt="Questions Icon" height="80px" width="73px" align="center" />
+        <mj-image src="https://studiohawk.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/questions-icon.png" alt="Questions Icon" height="80px" width="73px" align="center" />
         <mj-spacer height="16px" />
         <mj-text mj-class="text-gray font-extrabold" font-size="21px" line-height="24px" align="center"><span style="color:#3db8ea;"> Questions?</span> <br />
           We're here <br />
           to help
         </mj-text>
         <mj-spacer height="16px" />
-        <mj-button href="https://hawkacademy.co/faqs/" title="Visit our FAQs page" mj-class="bg-blue text-bold" border-radius="0" inner-padding="16px 15px" font-size="12px" align="center">
+        <mj-button href="https://studiohawk.com.au/faqs/" title="Visit our FAQs page" mj-class="bg-blue text-bold" border-radius="0" inner-padding="16px 15px" font-size="12px" align="center">
           Visit our FAQs page
         </mj-button>
       </mj-column>
@@ -140,18 +140,18 @@
     <!-- Footer-->
     <mj-section mj-class="bg-blue">
       <mj-column width="300px">
-        <mj-image src="https://hawkacademy.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/logo-white.png" href="https://hawkacademy.co/" alt="Hawk Academy" height="51px" width="130.5px" align="center" />
+        <mj-image src="https://studiohawk.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/logo-white.png" href="https://studiohawk.com.au/" alt="StudioHawk" width="200px" align="center" padding="10px 0" />
         <mj-spacer height="12px" />
         <mj-social font-size="15px" icon-size="38px" mode="horizontal" align="center">
-          <mj-social-element alt="Facebook" name="facebook" href="https://www.facebook.com/studiohawkau/" src="https://hawkacademy.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/facebook.png" padding="0 5px" />
-          <mj-social-element alt="Twitter" name="twitter" href="https://twitter.com/studiohawk?lang=en" src="https://hawkacademy.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/twitter.png" padding="0 5px" />
+          <mj-social-element alt="Facebook" name="facebook" href="https://www.facebook.com/studiohawkau/" src="https://studiohawk.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/facebook.png" padding="0 5px" />
+          <mj-social-element alt="Twitter" name="twitter" href="https://twitter.com/studiohawk?lang=en" src="https://studiohawk.s3.ap-southeast-2.amazonaws.com/emails/welcome/images/twitter.png" padding="0 5px" />
         </mj-social>
         <mj-spacer height="12px" />
         <mj-text font-size="11px" line-height="20px" align="center" mj-class="text-white">
-          <a href="https://hawkacademy.co/quiz/">Quiz</a> | <a href="https://hawkacademy.co/forums/">Forums</a> | <a href="https://studiohawk.com.au/contact/">Audit by Studiohawk</a> | <a href="https://studiohawk.com.au/seo-services/seo-speaking-training/">SEO Speaking / Training</a> | <a href="https://hawkacademy.co/privacy-policy">Privacy Policy</a> | <a href="mailto:Hello@hawkacademy.co">Contact</a>
+          <a href="https://studiohawk.com.au/quiz/">Quiz</a> | <a href="https://studiohawk.com.au/forums/">Forums</a> | <a href="https://studiohawk.com.au/contact/">Audit by Studiohawk</a> | <a href="https://studiohawk.com.au/seo-services/seo-speaking-training/">SEO Speaking / Training</a> | <a href="https://studiohawk.com.au/privacy-policy">Privacy Policy</a> | <a href="mailto:contact@studiohawk.com.au">Contact</a>
         </mj-text>
         <mj-spacer height="12px" />
-        <mj-text font-size="11px" line-height="20px" mj-class="text-white" align="center">&#169; Copyright 2021 HawkAcademy</mj-text>
+        <mj-text font-size="11px" line-height="20px" mj-class="text-white" align="center">&#169; Copyright 2021 StudioHawk</mj-text>
         <mj-spacer height="12px" />
         <mj-text mj-class="text-white" align="center" font-size="13px"> <a href="{{ unsubscribe_url }}">Unsubscribe</a></mj-text>
         <mj-spacer height="12px" />
